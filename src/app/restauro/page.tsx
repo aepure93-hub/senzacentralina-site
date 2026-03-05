@@ -11,7 +11,7 @@ export default function RestauroPage() {
       </p>
       <div className="grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
         <div className="relative aspect-[4/3] rounded-2xl overflow-hidden">
-          <Image src="/images/image13.jpg" alt="Motorcycle restoration" fill className="object-cover" sizes="(max-width: 768px) 100vw, 50vw" />
+          <Image src="/images/image13.jpg" alt="Restauro moto" fill className="object-cover" sizes="(max-width: 768px) 100vw, 50vw" />
         </div>
         <div>
           <h2 className="text-2xl font-bold text-black tracking-wide mb-4" style={{ fontFamily: "var(--font-body)" }}>L&apos;Arte del Restauro</h2>

@@ -4,10 +4,10 @@ export default function AboutPage() {
   return (
     <>
       <div className="text-center pt-0 pb-3 md:hidden">
-        <h1 className="text-lg md:text-2xl font-bold text-black tracking-[0.35em]" style={{ fontFamily: "var(--font-body)" }}>ABOUT US</h1>
+        <h1 className="text-lg md:text-2xl font-bold text-black tracking-[0.35em]" style={{ fontFamily: "var(--font-body)" }}>CHI SIAMO</h1>
       </div>
-      <section className="relative aspect-square overflow-hidden -mx-2 md:-mx-0">
-        <Image src="/images/Immagine_RAD_2.jpg" alt="About Us" fill className="object-cover" priority />
+      <section className="relative h-[50vh] md:h-[70vh] overflow-hidden -mx-2 md:max-w-6xl md:mx-auto md:rounded-xl">
+        <Image src="/images/Immagine_RAD_2.jpg" alt="Chi Siamo" fill className="object-cover" priority />
       </section>
 
       <section className="max-w-5xl mx-auto px-4 py-12 md:py-20">
@@ -15,13 +15,13 @@ export default function AboutPage() {
           <div>
             <h2 className="text-3xl font-bold tracking-wide mb-6">Chi Siamo</h2>
             <p className="text-[var(--color-warm-gray)] leading-relaxed mb-4">
-              At REVINT we bring together museums, historical registers,
-              spare parts, retailers and stories from people who live every day
-              with classic motorcycles.
+              In REVINT riuniamo musei, registri storici,
+              ricambi, rivenditori e storie di persone che vivono ogni giorno
+              con le moto d'epoca.
             </p>
             <p className="text-[var(--color-warm-gray)] leading-relaxed">
-              A space for those who love to ride, restore and keep alive the
-              memory of pre-electronics motorcycles.
+              Uno spazio per chi ama guidare, restaurare e mantenere viva la
+              memoria delle moto pre-elettroniche.
             </p>
           </div>
           <div className="relative aspect-[4/3] rounded-2xl overflow-hidden">

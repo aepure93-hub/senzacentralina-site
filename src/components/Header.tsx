@@ -17,7 +17,7 @@ const navItems = [
   { href: "/manuali", label: "Manuali" },
   { href: "/restauro", label: "Restauro" },
   { href: "/persone", label: "Persone" },
-  { href: "/about", label: "About Us" },
+  { href: "/about", label: "Chi Siamo" },
   { href: "/contatti", label: "Contatti" },
 ];
 

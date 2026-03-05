@@ -43,16 +43,16 @@ export default function HomePage() {
           </div>
           <div className="px-4 mt-8 md:mt-0 md:px-0">
             <h2 className="text-3xl md:text-4xl font-bold tracking-[0.1em] mb-6 text-white" style={{ fontFamily: "var(--font-body)" }}>
-              ABOUT US
+              CHI SIAMO
             </h2>
             <p className="text-white/80 leading-relaxed mb-4 font-sans">
-              At REVINT we bring together museums, historical registers,
-              spare parts, retailers and stories from people who live every day
-              with classic motorcycles.
+              In REVINT riuniamo musei, registri storici,
+              ricambi, rivenditori e storie di persone che vivono ogni giorno
+              con le moto d'epoca.
             </p>
             <p className="text-white/80 leading-relaxed mb-6 font-sans">
-              A space for those who love to ride, restore and keep alive the
-              memory of pre-electronics motorcycles.
+              Uno spazio per chi ama guidare, restaurare e mantenere viva la
+              memoria delle moto pre-elettroniche.
             </p>
             <a
               href="/about"

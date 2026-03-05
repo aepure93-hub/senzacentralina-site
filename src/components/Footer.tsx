@@ -10,8 +10,8 @@ export default function Footer() {
             REVINT
           </h3>
           <p className="text-sm leading-relaxed text-white/60">
-            A space for those who love to ride, restore and keep alive the memory
-            of pre-electronics motorcycles.
+            Uno spazio per chi ama guidare, restaurare e mantenere viva la memoria
+            delle moto pre-elettroniche.
           </p>
         </div>
 
@@ -56,7 +56,7 @@ export default function Footer() {
         </div>
       </div>
       <div className="border-t border-white/10 text-center py-4 text-xs text-white/40">
-        © {new Date().getFullYear()} REVINT. All rights reserved.
+        © {new Date().getFullYear()} REVINT. Tutti i diritti riservati.
       </div>
     </footer>
   );

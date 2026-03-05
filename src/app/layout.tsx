@@ -7,7 +7,7 @@ import SplashScreen from "@/components/SplashScreen";
 export const metadata: Metadata = {
   title: "REVINT",
   description:
-    "Museums, historical registers, spare parts, retailers and stories from people who live every day with classic motorcycles.",
+    "Musei, registri storici, ricambi, rivenditori e storie di persone che vivono ogni giorno con le moto d'epoca.",
   icons: {
     icon: "/favicon.png",
     apple: "/favicon.png",

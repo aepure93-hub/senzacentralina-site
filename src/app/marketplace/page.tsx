@@ -27,7 +27,7 @@ export default function MarketplacePage() {
         ))}
       </div>
       <div className="mt-12 text-center">
-        <p className="text-[var(--color-warm-gray)] text-sm italic">Coming soon — Marketplace in fase di sviluppo</p>
+        <p className="text-[var(--color-warm-gray)] text-sm italic">Prossimamente — Marketplace in fase di sviluppo</p>
       </div>
     </SectionPage>
   );

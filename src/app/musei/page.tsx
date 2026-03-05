@@ -41,7 +41,7 @@ export default function MuseiPage() {
       <div className="text-center pt-0 pb-3 md:hidden">
         <h1 className="text-lg md:text-2xl font-bold text-black tracking-[0.35em]" style={{ fontFamily: "var(--font-body)" }}>MUSEI</h1>
       </div>
-      <section className="relative aspect-square overflow-hidden -mx-2 md:-mx-0">
+      <section className="relative h-[50vh] md:h-[70vh] overflow-hidden -mx-2 md:max-w-6xl md:mx-auto md:rounded-xl">
         <Image src="/images/MUSEI.jpg" alt="Musei" fill className="object-cover" priority />
       </section>
       <div className="text-center pt-8 pb-4 md:pt-10 md:pb-6">

@@ -72,12 +72,12 @@ export interface Section {
 }
 
 export const sections: Section[] = [
-  { id: "musei", title: "MUSEI", description: "Discover motorcycle museums in Italy and abroad", image: "/images/MUSEI.jpg", href: "/musei" },
-  { id: "ricambi", title: "RICAMBI", description: "Find spare parts for your classic motorcycle", image: "/images/RICAMBI.jpg", href: "/ricambi" },
-  { id: "registro", title: "REGISTRO STORICO", description: "Historical registers and certifications", image: "/images/REGISTRO STORICO.jpeg", href: "/registro" },
-  { id: "marketplace", title: "MARKETPLACE", description: "Buy and sell vintage motorcycles and parts", image: "/images/MOTO GUZZI.jpeg", href: "/marketplace" },
-  { id: "club", title: "CLUB", description: "Join clubs and attend events", image: "/images/CLUB.jpg", href: "/club" },
-  { id: "manuali", title: "MANUALI", description: "Technical manuals and documentation", image: "/images/MANUALI.jpg", href: "/manuali" },
-  { id: "restauro", title: "RESTAURO", description: "Restoration resources and professionals", image: "/images/RESTAURO.jpg", href: "/restauro" },
-  { id: "persone", title: "PERSONE", description: "Stories from the community", image: "/images/PERSONE.jpeg", href: "/persone" },
+  { id: "musei", title: "MUSEI", description: "Scopri i musei delle moto in Italia e all'estero", image: "/images/MUSEI.jpg", href: "/musei" },
+  { id: "ricambi", title: "RICAMBI", description: "Trova ricambi per la tua moto d'epoca", image: "/images/RICAMBI.jpg", href: "/ricambi" },
+  { id: "registro", title: "REGISTRO STORICO", description: "Registri storici e certificazioni", image: "/images/REGISTRO STORICO.jpeg", href: "/registro" },
+  { id: "marketplace", title: "MARKETPLACE", description: "Compra e vendi moto d'epoca e ricambi", image: "/images/MOTO GUZZI.jpeg", href: "/marketplace" },
+  { id: "club", title: "CLUB", description: "Unisciti ai club e partecipa agli eventi", image: "/images/CLUB.jpg", href: "/club" },
+  { id: "manuali", title: "MANUALI", description: "Manuali tecnici e documentazione", image: "/images/MANUALI.jpg", href: "/manuali" },
+  { id: "restauro", title: "RESTAURO", description: "Risorse e professionisti del restauro", image: "/images/RESTAURO.jpg", href: "/restauro" },
+  { id: "persone", title: "PERSONE", description: "Storie dalla community", image: "/images/PERSONE.jpeg", href: "/persone" },
 ];

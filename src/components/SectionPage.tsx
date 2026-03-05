@@ -16,7 +16,7 @@ export default function SectionPage({ title, subtitle, description, heroImage, c
           {title}
         </h1>
       </div>
-      <section className="relative aspect-square overflow-hidden -mx-2 md:-mx-0">
+      <section className="relative h-[50vh] md:h-[70vh] overflow-hidden -mx-2 md:max-w-6xl md:mx-auto md:rounded-xl">
         <Image
           src={heroImage}
           alt={title}
